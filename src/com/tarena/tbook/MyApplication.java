@@ -15,7 +15,7 @@ import java.io.FileInputStream;
 import java.io.ObjectInputStream;
 
 /**
- * Created by hanamingming on 16/2/23.
+ * Created by Lee on 16/2/23.
  */
 public class MyApplication extends Application {
 
